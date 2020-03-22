@@ -1532,3 +1532,16 @@ a {
     .new_request__form-end {
       margin-bottom: 35px;
     }
+
+
+    /* ACTIVITY SECTION */
+
+    .icon__circle {
+      color:#0c7eFF;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 2px solid #0c7eFF;
+      height:38px;
+      width: 38px;
+    }
